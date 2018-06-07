@@ -24,6 +24,10 @@ docker run -it -d -p 8080:8081
 docker run -it -d -p 8081:8081
 
 docker run -it -d -p 8082:8081
+docker run -it -d -p 8083:8081
+docker run -it -d -p 8084:8081
+docker run -it -d -p 8085:8081
+
 
 Para balancear estos tres dockers configurar en el archivo /etc/haproxy/haproxy.cfg
 agregar estas lìneas
@@ -40,4 +44,7 @@ backend site-backend
 	server lamp1 localhost:8080 check
 	server lamp2 localhost:8081 check
 	server lamp3 localhost:8082 check
+	server lamp3 localhost:8083 check
+	server lamp3 localhost:8084 check
+	server lamp3 localhost:8085 check
 
