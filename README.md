@@ -18,7 +18,7 @@ CMD java -jar /codigo/target/sample-1.0-SNAPSHOT-fat.jar
 ------------
 Generar una imagen con el comando
 Docker build -t examen .
-
+En otro caso se puede hacer docker pull mmorgado/examen1 
 Despues ejecutar el comando
 docker run -it -d -p 8080:8081
 docker run -it -d -p 8081:8081
