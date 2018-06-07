@@ -1,0 +1,310 @@
+2018-06-04 23:29:01:195 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7487.40000000"}
+2018-06-04 23:29:33:651 INFO  MyController - Inicializando Vertical
+2018-06-04 23:29:33:939 INFO  MyController - Vertical iniciada !!!
+2018-06-04 23:37:28:983 INFO  MyController - Inicializando Vertical
+2018-06-04 23:37:29:217 INFO  MyController - Vertical iniciada !!!
+2018-06-04 23:39:04:410 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7480.12000000"}
+2018-06-04 23:39:29:093 INFO  MyController - Inicializando Vertical
+2018-06-04 23:39:29:341 INFO  MyController - Vertical iniciada !!!
+2018-06-04 23:42:58:399 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7484.07000000"}
+2018-06-04 23:43:09:171 INFO  MyController - Inicializando Vertical
+2018-06-04 23:43:09:448 INFO  MyController - Vertical iniciada !!!
+2018-06-04 23:44:16:472 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7485.34000000"}
+2018-06-04 23:44:24:627 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7485.74000000"}
+2018-06-04 23:44:31:613 INFO  MyController - Inicializando Vertical
+2018-06-04 23:44:31:875 INFO  MyController - Vertical iniciada !!!
+2018-06-04 23:45:31:171 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7486.04000000"}
+2018-06-04 23:45:35:967 INFO  MyController - Inicializando Vertical
+2018-06-04 23:45:36:220 INFO  MyController - Vertical iniciada !!!
+2018-06-04 23:55:26:074 INFO  MyController - Inicializando Vertical
+2018-06-04 23:55:26:351 INFO  MyController - Vertical iniciada !!!
+2018-06-05 00:00:46:829 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7489.20000000"}
+2018-06-05 00:00:54:219 INFO  MyController - Inicializando Vertical
+2018-06-05 00:00:54:451 INFO  MyController - Vertical iniciada !!!
+2018-06-05 00:01:09:181 INFO  MyController - Inicializando Vertical
+2018-06-05 00:01:09:440 INFO  MyController - Vertical iniciada !!!
+2018-06-05 00:03:38:912 INFO  MyController - Inicializando Vertical
+2018-06-05 00:03:39:149 INFO  MyController - Vertical iniciada !!!
+2018-06-05 00:19:43:063 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7500.19000000"}
+2018-06-05 00:27:23:867 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:23:876 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:23:888 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:23:893 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:23:900 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:23:907 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:23:911 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:23:916 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:23:921 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:23:926 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:32:161 INFO  MyController - Inicializando Vertical
+2018-06-05 00:27:32:387 INFO  MyController - Vertical iniciada !!!
+2018-06-05 00:27:47:588 INFO  MyController - Inicializando Vertical
+2018-06-05 00:27:47:834 INFO  MyController - Vertical iniciada !!!
+2018-06-05 00:27:53:671 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:53:679 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:53:685 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:53:693 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:53:697 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:27:53:705 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:53:710 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:53:715 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:53:721 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:27:53:727 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:10:226 INFO  MyController - Inicializando Vertical
+2018-06-05 00:44:10:513 INFO  MyController - Vertical iniciada !!!
+2018-06-05 00:44:16:152 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:16:169 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:16:177 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:16:186 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:16:191 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:16:196 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:16:206 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:16:210 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:16:214 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:16:221 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:26:425 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:26:432 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:26:435 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:26:439 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:26:445 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:26:451 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:26:459 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:26:464 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:26:469 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:26:472 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:48:953 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:48:974 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:48:981 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:48:993 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:48:997 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:44:49:008 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:49:012 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:49:022 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:49:025 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:44:49:030 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:26:093 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:26:100 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:26:109 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:26:115 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:26:121 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:26:132 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:26:138 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:26:144 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:26:153 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:26:164 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:37:311 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:37:318 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:37:330 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:37:336 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:37:342 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-05 00:45:37:349 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:37:353 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:37:358 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:37:362 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-05 00:45:37:366 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:20:21:573 INFO  MyController - Inicializando Vertical
+2018-06-06 00:20:21:866 INFO  MyController - Vertical iniciada !!!
+2018-06-06 00:20:44:183 INFO  MyController - Inicializando Vertical
+2018-06-06 00:20:44:415 INFO  MyController - Vertical iniciada !!!
+2018-06-06 00:20:51:707 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:20:51:718 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:20:51:727 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:20:51:734 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:20:51:740 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:20:51:744 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:20:51:751 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:20:51:757 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:20:51:762 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:20:51:768 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:29:55:075 INFO  MyController - Inicializando Vertical
+2018-06-06 00:29:55:300 INFO  MyController - Vertical iniciada !!!
+2018-06-06 00:30:01:626 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:30:01:633 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:30:01:638 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:30:01:649 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:30:01:653 INFO  TestMyController - {
+  "cumple" : "false"
+}
+2018-06-06 00:30:01:661 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:30:01:665 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:30:01:670 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:30:01:678 INFO  TestMyController - {
+  "cumple" : "true"
+}
+2018-06-06 00:30:01:683 INFO  TestMyController - {
+  "cumple" : "true"
+}
